@@ -30,37 +30,37 @@ SRSF3 and SRSF7 modulate 3'UTR length through suppression or activation of proxi
 <ins>Keller M</ins>, Schleiff E, Simm S <br/>
 miRNAs involved in transcriptome remodeling during pollen development and
 heat stress response in Solanum lycopersicum. <br/>
-[Scientific Reports, XXX 2020](XXX)
+[Scientific Reports, July 2020](https://doi.org/10.1038/s41598-020-67833-6)
 
 # 2018
 
 <ins>Keller M</ins>, SPOT-ITN Consortium, Simm S <br/>
 The coupling of transcriptome and proteome adaptation during development
 and heat stress response in tomato pollen. <br/>
-[BMC Genomics, XXX 2018](XXX)
+[BMC Genomics, June 2018](https://doi.org/10.1186/s12864-018-4824-5)
 
 Lampe S, Kunze M, Scholz A, Brauß TF, Winslow S, Simm S, <ins>Keller M</ins>,
 Heidler J, Wittig I, Brüne B, Schmid T <br/>
 Identificaiton of the TXNIP IRES and characterization of the impact of
 regulatory IRES trans-acting factors. <br/>
-[Biochimica et Biophysica Acta (BBA) - Gene Regulatory Mechanisms, XXX 2018](XXX)
+[Biochimica et Biophysica Acta (BBA) - Gene Regulatory Mechanisms, February 2018](https://doi.org/10.1016/j.bbagrm.2018.01.010)
 
 # 2016
 
 <ins>Keller M</ins>, Hu Y, Mesihovic A, Fragkostefanakis S, Schleiff E,
 Simm S <br/>
 Alternative splicing in tomato pollen in response to heat stress. <br/>
-[DNA Research, XXX 2016](XXX)
+[DNA Research, December 2016](https://doi.org/10.1093/dnares/dsw051)
 
 # 2015
 
 Simm S, <ins>Keller M</ins>, Selymesi M, Schleiff E <br/>
 The composition of the global and feature specific cyanobacterial
 core-genomes. <br/>
-[Frontiers in Microbiology, XXX 2015](XXX)
+[Frontiers in Microbiology, March 2015](https://doi.org/10.3389/fmicb.2015.00219)
 
 Simm S, Fragkostefanakis S, Paul P, <ins>Keller M</ins>, Einloft J,
 Scharf KD, Schleiff E <br/>
 Identification and expression analysis of ribosome biogenesis factor
 co-orthologs in Solanum lycopersicum. <br/>
-[Bioinformatics and Biology Insights, XXX 2015](XXX)
+[Bioinformatics and Biology Insights, February 2015](https://doi.org/10.4137/BBI.S20751)

@@ -5,4 +5,6 @@
 layout: home
 ---
 
-Das ist ein Test.
+Welcome to my website, which is still under development. In the near future
+I plan to add some cool tutorials and report about new publications from the
+Zarnack lab.
