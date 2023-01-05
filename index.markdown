@@ -7,4 +7,4 @@ layout: home
 
 Welcome to my website, which is still under development. In the near future
 I plan to add some cool tutorials and report about new publications from the
-Zarnack lab.
+Zarnack lab. So stay tuned!
