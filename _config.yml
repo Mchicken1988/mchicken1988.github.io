@@ -37,7 +37,6 @@ header_pages:
     - 1_tutorials.markdown
     - 2_publications.markdown
     - 3_about.markdown
-    
 
 # Exclude from processing.
 # The following items will not be processed, by default.

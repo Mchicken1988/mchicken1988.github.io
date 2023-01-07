@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Test tutorial
+date: 2023-01-07
+categories: tutorials
+
 output:
   md_document:
     variant: markdown_github

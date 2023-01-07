@@ -1,4 +1,6 @@
 ---
+categories: tutorials
+date: 2023-01-07
 knit: "(function(inputFile, encoding) { rmarkdown::render(inputFile,
   encoding = encoding, output_dir =
   “/Users/mariokeller/privat/mchicken1988.github.io/\\_posts”,
