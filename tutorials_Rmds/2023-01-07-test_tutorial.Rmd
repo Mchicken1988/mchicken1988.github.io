@@ -1,0 +1,46 @@
+---
+layout: post
+title: Test tutorial
+output:
+  md_document:
+    variant: markdown_github
+    preserve_yaml: true
+knit: (function(inputFile, encoding) {
+    rmarkdown::render(inputFile, encoding = encoding,
+    output_dir = "/Users/mariokeller/privat/mchicken1988.github.io/_posts",
+    output_file = sub("Rmd", "markdown", inputFile |> Biostrings::reverse() |> strsplit("/") |> sapply("[[",1) |> Biostrings::reverse()))
+  })
+---
+
+```{r echo=FALSE}
+knitr::opts_knit$set(base.dir = "/Users/mariokeller/privat/mchicken1988.github.io/", base.url = "/")
+knitr::opts_chunk$set(fig.path = paste0("tutorials_figures/",
+                                        Biostrings::reverse(inputFile) |>
+                                            strsplit("/") |> sapply("[[",1) |>
+                                            Biostrings::reverse(), "/"))
+```
+
+
+```{r, echo=TRUE}
+summary(cars)
+print(inputFile)
+```
+
+```{r}
+library(ggplot2)
+ggplot(mpg, aes(displ, hwy)) +
+  geom_point(aes(color = class)) +
+  geom_smooth(se = FALSE, method = "loess") +
+  labs(
+    title = "Fuel efficiency generally decreases with engine size",
+    subtitle = "Two seaters (sports cars) are an exception because of their light weight",
+    caption = "Data from fueleconomy.gov"
+  )
+```
+
+
+# Session Information
+
+```{r}
+sessionInfo()
+```

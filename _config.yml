@@ -34,9 +34,10 @@ plugins:
 
 # Added by Mario
 header_pages:
+    - tutorials.markdown
     - publications.markdown
     - about.markdown
-    - tutorials.markdown
+    
 
 # Exclude from processing.
 # The following items will not be processed, by default.
