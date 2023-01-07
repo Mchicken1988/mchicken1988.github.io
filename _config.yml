@@ -34,9 +34,9 @@ plugins:
 
 # Added by Mario
 header_pages:
-    - tutorials.markdown
-    - publications.markdown
-    - about.markdown
+    - 2_tutorials.markdown
+    - 3_publications.markdown
+    - 4_about.markdown
     
 
 # Exclude from processing.
