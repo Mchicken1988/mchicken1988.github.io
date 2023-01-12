@@ -4,12 +4,23 @@ title: Publications
 permalink: /publications/
 ---
 
+# 2023
+
+de Oliveira Freitas Machado C, Schafranek M, Brüggemann M,
+Hernández Cañás MC, <ins>Keller M</ins>, Di Liddo A, Arnold B, Blümel N,
+Bremm A, Wittig I, Jaé N, McNicoll F, Dimmeler S, Zarnack K,
+Müller-McNicoll M <br/>
+Poison cassette exon splicing of SRSF6 regulates the alternative splicing
+response to hypoxia.<br/>
+[Nucleic Acids Research, January 2023](https://doi.org/10.1093/nar/gkac1225)
+
+
 # 2022
 
 Keil P, Wulf A, Kachariya N, Reuscher S, Hühn K, Silbern I, Altmüller J,
 <ins>Keller M</ins>, Stehle R, Zarnack K, Sattler M, Urlaub H, Sträßer K <br/>
 Npl3 functions in mRNP assembly by recruitment of mRNP components to the
-transcription site and their transfer onto the mRNA.<br/>
+transcription site and their transfer onto the mRNA. <br/>
 [Nucleic Acids Research, December 2022](https://doi.org/10.1093/nar/gkac1206)
 
 # 2021
@@ -22,7 +33,8 @@ High Temperatures. <br/>
 
 Schwich OD\*, Blümel N\*, <ins>Keller M\*</ins>, Wegener M, Setty ST, Brunstein ME,
 Poser I, Mozos IRL, Suess B, Münch C, McNicoll F, Zarnack K, Müller-McNicoll M <br/>
-SRSF3 and SRSF7 modulate 3'UTR length through suppression or activation of proximal polyadenylation sites and regulation of CFIm levels. <br/>
+SRSF3 and SRSF7 modulate 3'UTR length through suppression or activation of proximal
+polyadenylation sites and regulation of CFIm levels. <br/>
 [Genome Biology, March 2021 - *Shared first author](https://doi.org/10.1186/s13059-021-02298-y)
 
 # 2020

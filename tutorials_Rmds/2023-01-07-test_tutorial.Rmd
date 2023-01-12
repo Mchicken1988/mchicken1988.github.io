@@ -6,7 +6,7 @@ categories: tutorials
 
 output:
   md_document:
-    variant: markdown_github
+    variant: gfm
     preserve_yaml: true
 knit: (function(inputFile, encoding) {
     rmarkdown::render(inputFile, encoding = encoding,
@@ -23,6 +23,24 @@ knitr::opts_chunk$set(fig.path = paste0("tutorials_figures/",
                                             Biostrings::reverse(), "/"))
 ```
 
+```{r, echo=TRUE}
+library(dplyr)
+
+grades <- data.frame(
+    student = c("al", "bo", "cindy", "dan", "ella", "frank", "gina", "henry"), 
+    school = c(rep("stanford", 4), rep("berkley", 4)),
+    sat_score = c(750, 730, 690, 800, 780, 720, 730, 700)
+    )
+```
+
+bla
+bla
+
+```{r}
+grades %>%
+    group_by(school) %>%
+    summarize(mean(sat_score))
+```
 
 ```{r, echo=TRUE}
 summary(cars)
